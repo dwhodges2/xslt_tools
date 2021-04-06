@@ -1,0 +1,1045 @@
+<feed xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns="http://www.w3.org/2005/Atom" xml:base="https://bookserver.archive.org/downloads.xml">
+  <title>Most Downloaded Books in the last Month</title>
+  <id>urn:x-internet-archive:bookserver:downloads</id>
+  <updated>2021-04-06T00:00:00Z</updated>
+  <link rel="self" type="application/atom+xml" href="https://bookserver.archive.org/downloads.xml"/>
+  <author>
+    <name>Internet Archive</name>
+    <uri>https://archive.org</uri>
+  </author>
+  <link rel="search" type="application/opensearchdescription+xml" href="https://bookserver.archive.org/opensearch.xml"/>
+  <link rel="http://opds-spec.org/auth/document" type="application/vnd.opds.authentication.v1.0+json" href="https://bookserver.archive.org/authentication_document"/>
+  <entry>
+    <title>The Voynich Manuscript</title>
+    <id>urn:x-internet-archive:bookserver:item:TheVoynichManuscript</id>
+    <updated>2008-03-09T21:54:42Z</updated>
+    <link href="https://bookserver.archive.org/acquire/TheVoynichManuscript.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/TheVoynichManuscript.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/TheVoynichManuscript/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/TheVoynichManuscript/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <category term="voynich" label="voynich"/>
+    <category term="manuscript" label="manuscript"/>
+    <dcterms:language>English</dcterms:language>
+    <summary type="html">The Voynich Manuscript is a document that is notable for its strange text, that to date hasn't been decyphered. Theories range from a secret language or code to an old sort of joke or hoax.</summary>
+  </entry>
+  <entry>
+    <title>Figure Drawing for All It's Worth</title>
+    <id>urn:x-internet-archive:bookserver:item:loomis_FIGURE_draw</id>
+    <updated>2011-12-08T05:16:43Z</updated>
+    <link href="https://bookserver.archive.org/acquire/loomis_FIGURE_draw.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/loomis_FIGURE_draw.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/loomis_FIGURE_draw/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/loomis_FIGURE_draw/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1943</dcterms:issued>
+    <published>1943-01-01T00:00:00Z</published>
+    <author>
+      <name>Loomis, Andrew</name>
+    </author>
+    <category term="art" label="art"/>
+    <category term="figure drawing" label="figure drawing"/>
+    <category term="illustration" label="illustration"/>
+    <dcterms:language>English</dcterms:language>
+    <summary>5969 downloads in the last month. </summary>
+  </entry>
+  <entry>
+    <title>Lolita</title>
+    <id>urn:x-internet-archive:bookserver:item:in.ernet.dli.2015.68292</id>
+    <updated>2017-01-16T07:11:55Z</updated>
+    <link href="https://bookserver.archive.org/acquire/in.ernet.dli.2015.68292.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/in.ernet.dli.2015.68292.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/in.ernet.dli.2015.68292/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/in.ernet.dli.2015.68292/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1959</dcterms:issued>
+    <published>1959-01-01T00:00:00Z</published>
+    <author>
+      <name>Vladimir Nabokov</name>
+    </author>
+    <category term="Banasthali" label="Banasthali"/>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">Book Source: Digital Library of India Item 2015.68292 dc.contributor.author: Vladimir Nabokov dc.date.accessioned: 2015-06-30T01:21:50Z dc.date.available: 2015-06-30T01:21:50Z dc.date.copyrightexpirydate: 0000-00-00 dc.date.digitalpublicationdate: 2010-04-00 dc.date.citation: 1859 dc.identifier.barcode: 99999990270442 dc.identifier.origpath: /data6/upload/0123/244 dc.identifier.copyno: 1 dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/68292 dc.description.scanningcentre: Banasthali University dc.description.main: 1 dc.description.tagged: 0 dc.description.totalpages: 291 dc.format.mimetype: application/pdf dc.language.iso: English dc.publisher.digitalrepublisher: Digital Library Of India dc.publisher: Xxxx dc.rights: Copyright Permitted dc.source.library: Kumarappa Institute Of Gram Swaraj, Jaipur dc.subject.classification: Middle-aged Men --fiction. dc.subject.keywords: Gandhi Wangmay dc.title: Lolita</summary>
+  </entry>
+  <entry>
+    <title>A Tagalog English and English Tagalog dictionary</title>
+    <id>urn:x-internet-archive:bookserver:item:tagalogenglishen00niggrich</id>
+    <updated>2007-07-31T00:01:58Z</updated>
+    <link href="https://bookserver.archive.org/acquire/tagalogenglishen00niggrich.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/tagalogenglishen00niggrich.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/tagalogenglishen00niggrich/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/tagalogenglishen00niggrich/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1904</dcterms:issued>
+    <published>1904-01-01T00:00:00Z</published>
+    <author>
+      <name>Nigg, Charles</name>
+    </author>
+    <category term="Tagalog language -- Dictionaries English" label="Tagalog language -- Dictionaries English"/>
+    <category term="English language -- Dictionaries Tagalog" label="English language -- Dictionaries Tagalog"/>
+    <dcterms:publisher>Manila : Imp. de Fajardo y comp.</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">Photocopy</summary>
+  </entry>
+  <entry>
+    <title>A dictionary of the principal languages spoken in the Bengal presidency, viz. English, B&#225;ng&#225;l&#237;, and Hind&#250;st&#225;n&#237;. In the roman character;</title>
+    <id>urn:x-internet-archive:bookserver:item:dictionaryofprin00drozrich</id>
+    <updated>2008-03-17T23:11:31Z</updated>
+    <link href="https://bookserver.archive.org/acquire/dictionaryofprin00drozrich.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/dictionaryofprin00drozrich.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/dictionaryofprin00drozrich/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/dictionaryofprin00drozrich/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1837</dcterms:issued>
+    <published>1837-01-01T00:00:00Z</published>
+    <author>
+      <name>D'Rozario, P. S</name>
+    </author>
+    <category term="English language -- Polyglot" label="English language -- Polyglot"/>
+    <category term="Bengali language -- Dictionaries Polyglot" label="Bengali language -- Dictionaries Polyglot"/>
+    <category term="Hindustani language -- Dictionaries Polyglot" label="Hindustani language -- Dictionaries Polyglot"/>
+    <dcterms:publisher>Calcutta, Printed by G. Woollaston</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary>Book contributor: University of California Libraries. 4315 downloads in the last month. </summary>
+  </entry>
+  <entry>
+    <title>The wonderful wizard of Oz</title>
+    <id>urn:x-internet-archive:bookserver:item:wonderfulwizardo00baumiala</id>
+    <updated>2007-11-27T22:24:10Z</updated>
+    <link href="https://bookserver.archive.org/acquire/wonderfulwizardo00baumiala.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/wonderfulwizardo00baumiala.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/wonderfulwizardo00baumiala/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/wonderfulwizardo00baumiala/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1899</dcterms:issued>
+    <published>1899-01-01T00:00:00Z</published>
+    <author>
+      <name>Baum, L. Frank (Lyman Frank), 1856-1919</name>
+    </author>
+    <author>
+      <name>Denslow, W. W. (William Wallace), 1856-1915</name>
+    </author>
+    <category term="Adventure and adventurers" label="Adventure and adventurers"/>
+    <category term="Wizards" label="Wizards"/>
+    <dcterms:publisher>Chicago ; New York : G.M. Hill Co.</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">Publisher's green and red illustrated cloth over boards; illustrated endpapers. Plate detached</summary>
+  </entry>
+  <entry>
+    <title>Of Mice And Men(1947)</title>
+    <id>urn:x-internet-archive:bookserver:item:in.ernet.dli.2015.507266</id>
+    <updated>2017-01-21T12:03:59Z</updated>
+    <link href="https://bookserver.archive.org/acquire/in.ernet.dli.2015.507266.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/in.ernet.dli.2015.507266.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/in.ernet.dli.2015.507266/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/in.ernet.dli.2015.507266/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1947</dcterms:issued>
+    <published>1947-01-01T00:00:00Z</published>
+    <author>
+      <name>Steinbeck John</name>
+    </author>
+    <category term="C-DAC" label="C-DAC"/>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">Book Source: Digital Library of India Item 2015.507266 dc.contributor.author: Steinbeck John dc.coverage.spatial: New york dc.date.accessioned: 2015-09-27T16:28:11Z dc.date.available: 2015-09-27T16:28:11Z dc.date.copyright: 1947 dc.date.digitalpublicationdate: 2009/05/18 dc.date.citation: 1947 dc.identifier.barcode: 99999990258728 dc.identifier.origpath: /data4/upload/0111/532 dc.identifier.copyno: 1 dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/507266 dc.description.scannerno: OS 5000 dc.description.scanningcentre: C-DAC, Noida dc.description.main: 1 dc.description.tagged: 0 dc.description.totalpages: 191 dc.format.mimetype: application/pdf dc.language.iso: English dc.publisher.digitalrepublisher: Digital Library Of India dc.publisher: The World Publishing Company. dc.source.library: Lbs National Academy Of Administration dc.title: Of Mice And Men(1947) dc.type: Print - Paper dc.type: Book</summary>
+  </entry>
+  <entry>
+    <title>Kama sutra</title>
+    <id>urn:x-internet-archive:bookserver:item:isbn_9789707320680</id>
+    <updated>2014-06-16T20:10:52Z</updated>
+    <link href="https://bookserver.archive.org/acquire/isbn_9789707320680.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/isbn_9789707320680.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/isbn_9789707320680/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/isbn_9789707320680/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2003</dcterms:issued>
+    <published>2003-01-01T00:00:00Z</published>
+    <author>
+      <name>Va&#772;tsya&#772;yana</name>
+    </author>
+    <category term="Sex instruction" label="Sex instruction"/>
+    <category term="Sex customs" label="Sex customs"/>
+    <category term="Sexual intercourse" label="Sexual intercourse"/>
+    <category term="Love" label="Love"/>
+    <category term="Love" label="Love"/>
+    <category term="Sex customs" label="Sex customs"/>
+    <category term="Sex instruction" label="Sex instruction"/>
+    <category term="Sexual intercourse" label="Sexual intercourse"/>
+    <dcterms:publisher>Me&#769;xico, D.F. : Lectorum</dcterms:publisher>
+    <dcterms:language>es</dcterms:language>
+    <summary type="html">Los hindu&#769;es han sabido, durante milenios, que el sexo y el placer son las dos fuentes de donde la mente y el cuerpo obtienen bienestar y equilibrio. Por ello, Vatsyayana escribio&#769; este tratado, que ha sobrevivido muchos siglos y que en Occidente es permanentemente una revelacio&#769;n suprema</summary>
+  </entry>
+  <entry>
+    <title>The universe pictures in Milton's Paradise lost; an illustrated study for personal and class use</title>
+    <id>urn:x-internet-archive:bookserver:item:universepictures00warruoft</id>
+    <updated>2006-10-19T07:43:40Z</updated>
+    <link href="https://bookserver.archive.org/acquire/universepictures00warruoft.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/universepictures00warruoft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/universepictures00warruoft/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/universepictures00warruoft/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1915</dcterms:issued>
+    <published>1915-01-01T00:00:00Z</published>
+    <author>
+      <name>Warren, William Fairfield, 1833-1929</name>
+    </author>
+    <category term="Milton, John, 1608-1674" label="Milton, John, 1608-1674"/>
+    <dcterms:publisher>New York The Abingdon Press</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">26</summary>
+  </entry>
+  <entry>
+    <title>Anatomy of the human body</title>
+    <id>urn:x-internet-archive:bookserver:item:anatomyofhumanbo1918gray</id>
+    <updated>2011-05-16T22:33:36Z</updated>
+    <link href="https://bookserver.archive.org/acquire/anatomyofhumanbo1918gray.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/anatomyofhumanbo1918gray.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/anatomyofhumanbo1918gray/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/anatomyofhumanbo1918gray/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1918</dcterms:issued>
+    <published>1918-01-01T00:00:00Z</published>
+    <author>
+      <name>Gray, Henry, 1825-1861</name>
+    </author>
+    <author>
+      <name>Lewis, Warren Harmon, 1870-</name>
+    </author>
+    <category term="Human anatomy" label="Human anatomy"/>
+    <dcterms:publisher>Philadelphia : Lea &amp; Febiger</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">Includes bibliographies and index 1</summary>
+  </entry>
+  <entry>
+    <title>The inferno</title>
+    <id>urn:x-internet-archive:bookserver:item:inferno00dant_2</id>
+    <updated>2012-08-15T14:07:51Z</updated>
+    <link href="https://bookserver.archive.org/acquire/inferno00dant_2.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/inferno00dant_2.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/inferno00dant_2/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/inferno00dant_2/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2009</dcterms:issued>
+    <published>2009-01-01T00:00:00Z</published>
+    <author>
+      <name>Dante Alighieri, 1265-1321</name>
+    </author>
+    <author>
+      <name>Ciardi, John, 1916-1986</name>
+    </author>
+    <category term="Hell" label="Hell"/>
+    <category term="Poetry, Medieval" label="Poetry, Medieval"/>
+    <category term="Religious poetry" label="Religious poetry"/>
+    <dcterms:publisher>New York : New American Library</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">Translation of: Inferno "Signet classics." Includes bibliographical references In the first part of Dante's epic poem about the three realms of the Christian afterlife, a spiritual pilgrim is led by Virgil through the nine circles of Hell</summary>
+  </entry>
+  <entry>
+    <title>Position of the day : sex every day in every way</title>
+    <id>urn:x-internet-archive:bookserver:item:positionofdaysex00tayl</id>
+    <updated>2012-11-21T17:43:58Z</updated>
+    <link href="https://bookserver.archive.org/acquire/positionofdaysex00tayl.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/positionofdaysex00tayl.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/positionofdaysex00tayl/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/positionofdaysex00tayl/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>2003</dcterms:issued>
+    <published>2003-01-01T00:00:00Z</published>
+    <author>
+      <name>Taylor, Emma (Emma Jane)</name>
+    </author>
+    <author>
+      <name>Sharkey, Lorelei</name>
+    </author>
+    <category term="Sex instruction" label="Sex instruction"/>
+    <dcterms:publisher>San Francisco : Chronicle Books</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">Based on the e-postcards featured on Nerve.com</summary>
+  </entry>
+  <entry>
+    <title>What to draw and how to draw it</title>
+    <id>urn:x-internet-archive:bookserver:item:whattodrawhowtod00lutz</id>
+    <updated>2007-07-02T13:02:06Z</updated>
+    <link href="https://bookserver.archive.org/acquire/whattodrawhowtod00lutz.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/whattodrawhowtod00lutz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/whattodrawhowtod00lutz/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/whattodrawhowtod00lutz/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1913</dcterms:issued>
+    <published>1913-01-01T00:00:00Z</published>
+    <author>
+      <name>Lutz, Edwin George, b. 1868</name>
+    </author>
+    <category term="Drawing -- Study and teaching" label="Drawing -- Study and teaching"/>
+    <dcterms:publisher>[New York] : Dodd, Mead</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">NY3</summary>
+  </entry>
+  <entry>
+    <title>Spanish-English and English-Spanish commercial dictionary of the words and terms used in commercial correspondence which are not given in the dictionaries in ordinary use; compound phrases, idiomatic and technical expressions, etc</title>
+    <id>urn:x-internet-archive:bookserver:item:spanishenglishen00macduoft</id>
+    <updated>2009-08-21T11:50:11Z</updated>
+    <link href="https://bookserver.archive.org/acquire/spanishenglishen00macduoft.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/spanishenglishen00macduoft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/spanishenglishen00macduoft/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/spanishenglishen00macduoft/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1918</dcterms:issued>
+    <published>1918-01-01T00:00:00Z</published>
+    <author>
+      <name>Macdonald, George Robert</name>
+    </author>
+    <category term="Spanish language" label="Spanish language"/>
+    <category term="Commerce" label="Commerce"/>
+    <dcterms:publisher>London, Pitman</dcterms:publisher>
+    <dcterms:language>es</dcterms:language>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">26</summary>
+  </entry>
+  <entry>
+    <title>Die Erotik in der Photographie [electronic resource] : die geschichtliche Entwicklung der Aktphotographie und des erotischen Lichtbildes und seine Beziehungen zur Psychopathia sexualis</title>
+    <id>urn:x-internet-archive:bookserver:item:b2044204x</id>
+    <updated>2014-03-06T12:13:32Z</updated>
+    <link href="https://bookserver.archive.org/acquire/b2044204x.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/b2044204x.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/b2044204x/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/b2044204x/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1931</dcterms:issued>
+    <published>1931-01-01T00:00:00Z</published>
+    <author>
+      <name>Wulffen, Erich, 1862-1936</name>
+    </author>
+    <category term="Photography of the nude" label="Photography of the nude"/>
+    <category term="Photography, Erotic" label="Photography, Erotic"/>
+    <dcterms:publisher>Wien : Verlag f&#252;r Kulturforshung</dcterms:publisher>
+    <dcterms:language>de</dcterms:language>
+    <summary type="html">bl</summary>
+  </entry>
+  <entry>
+    <title>Romanized school dictionary, English and Urdu</title>
+    <id>urn:x-internet-archive:bookserver:item:romanizedschool00socigoog</id>
+    <updated>2010-01-03T17:30:29Z</updated>
+    <link href="https://bookserver.archive.org/acquire/romanizedschool00socigoog.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/romanizedschool00socigoog.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/romanizedschool00socigoog/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/romanizedschool00socigoog/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1864</dcterms:issued>
+    <published>1864-01-01T00:00:00Z</published>
+    <author>
+      <name>Calcutta School-Book Society</name>
+    </author>
+    <category term="English language" label="English language"/>
+    <dcterms:publisher>Calcutta</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">Book digitized by Google from the library of University of California and uploaded to the Internet Archive by user tpb. Mode of access: Internet</summary>
+  </entry>
+  <entry>
+    <title>The "Keystone" jacket and dress cutter. A treatise on jackets, dresses and other garments for women</title>
+    <id>urn:x-internet-archive:bookserver:item:keystonejacketdr00heck</id>
+    <updated>2009-08-06T11:45:14Z</updated>
+    <link href="https://bookserver.archive.org/acquire/keystonejacketdr00heck.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/keystonejacketdr00heck.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/keystonejacketdr00heck/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/keystonejacketdr00heck/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1895</dcterms:issued>
+    <published>1895-01-01T00:00:00Z</published>
+    <author>
+      <name>Hecklinger, Charles. [from old catalog]</name>
+    </author>
+    <category term="Tailoring (Women's) [from old catalog]" label="Tailoring (Women's) [from old catalog]"/>
+    <dcterms:publisher>New York, The Herald of fashion co.</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary>Book contributor: The Library of Congress. 2023 downloads in the last month. </summary>
+  </entry>
+  <entry>
+    <title>Dogs of all nations</title>
+    <id>urn:x-internet-archive:bookserver:item:dogsofallnations00masorich</id>
+    <updated>2006-12-11T14:06:38Z</updated>
+    <link href="https://bookserver.archive.org/acquire/dogsofallnations00masorich.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/dogsofallnations00masorich.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/dogsofallnations00masorich/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/dogsofallnations00masorich/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1915</dcterms:issued>
+    <published>1915-01-01T00:00:00Z</published>
+    <author>
+      <name>Mason, Walter Esplin, 1867-</name>
+    </author>
+    <category term="Dog breeds" label="Dog breeds"/>
+    <dcterms:publisher>[S.l.: s.n.]</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary>Book contributor: University of California Libraries. 1968 downloads in the last month. </summary>
+  </entry>
+  <entry>
+    <title>Heidi : a story for girls</title>
+    <id>urn:x-internet-archive:bookserver:item:cu31924012618546</id>
+    <updated>2009-10-31T15:16:25Z</updated>
+    <link href="https://bookserver.archive.org/acquire/cu31924012618546.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/cu31924012618546.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/cu31924012618546/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/cu31924012618546/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1901</dcterms:issued>
+    <published>1901-01-01T00:00:00Z</published>
+    <author>
+      <name>Spyri, Johanna, 1827-1901</name>
+    </author>
+    <author>
+      <name>Melcon, H. A</name>
+    </author>
+    <dcterms:publisher>New York, A. L. Burt</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions.</summary>
+  </entry>
+  <entry>
+    <title>Drawing made easy : a helpful book for young artists; the way to begin and finish your sketches, clearly shown step by step</title>
+    <id>urn:x-internet-archive:bookserver:item:drawingmadeeasyh00lutz</id>
+    <updated>2009-02-13T14:50:24Z</updated>
+    <link href="https://bookserver.archive.org/acquire/drawingmadeeasyh00lutz.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/drawingmadeeasyh00lutz.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/drawingmadeeasyh00lutz/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/drawingmadeeasyh00lutz/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1921</dcterms:issued>
+    <published>1921-01-01T00:00:00Z</published>
+    <author>
+      <name>Lutz, Edwin George, b. 1868</name>
+    </author>
+    <category term="Drawing" label="Drawing"/>
+    <dcterms:publisher>New York : C. Scribner's Sons</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">OCLC number: ocm07014379</summary>
+  </entry>
+  <entry>
+    <title>The discovery of witches : a study of Master Matthew Hopkins, commonly call'd Witch finder generall</title>
+    <id>urn:x-internet-archive:bookserver:item:b31350586</id>
+    <updated>2019-06-13T13:54:01Z</updated>
+    <link href="https://bookserver.archive.org/acquire/b31350586.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/b31350586.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/b31350586/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/b31350586/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1928</dcterms:issued>
+    <published>1928-01-01T00:00:00Z</published>
+    <author>
+      <name>Summers, Montague, 1880-1948</name>
+    </author>
+    <category term="Hopkins, Matthew, -1647" label="Hopkins, Matthew, -1647"/>
+    <category term="Witchcraft -- history" label="Witchcraft -- history"/>
+    <category term="Witchcraft" label="Witchcraft"/>
+    <category term="England" label="England"/>
+    <dcterms:publisher>London : The Cayme Press</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">61 pages : 23 cm</summary>
+  </entry>
+  <entry>
+    <title>Gl&#246;dande kol och andra noveller</title>
+    <id>urn:x-internet-archive:bookserver:item:glodandekolocha00lond</id>
+    <updated>2009-01-07T19:54:28Z</updated>
+    <link href="https://bookserver.archive.org/acquire/glodandekolocha00lond.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/glodandekolocha00lond.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/glodandekolocha00lond/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/glodandekolocha00lond/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1920</dcterms:issued>
+    <published>1920-01-01T00:00:00Z</published>
+    <author>
+      <name>London, Jack, 1876-1916</name>
+    </author>
+    <dcterms:publisher>Stockholm : Bohlin</dcterms:publisher>
+    <dcterms:language>sv</dcterms:language>
+    <summary type="html">Translation of: Burning daylight With this is bound the author's Eftersk&#246;rd. [1920]</summary>
+  </entry>
+  <entry>
+    <title>The Kama sutra of Vatsyayana</title>
+    <id>urn:x-internet-archive:bookserver:item:kamasutraofvatsy00vatsuoft</id>
+    <updated>2008-01-23T13:44:27Z</updated>
+    <link href="https://bookserver.archive.org/acquire/kamasutraofvatsy00vatsuoft.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/kamasutraofvatsy00vatsuoft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/kamasutraofvatsy00vatsuoft/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/kamasutraofvatsy00vatsuoft/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1883</dcterms:issued>
+    <published>1883-01-01T00:00:00Z</published>
+    <author>
+      <name>Vatsyayana</name>
+    </author>
+    <author>
+      <name>Kama Shastra Society of London and Benares</name>
+    </author>
+    <category term="Love" label="Love"/>
+    <dcterms:publisher>Benares ; New York : Printed for the Society of the Friends of India</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">26</summary>
+  </entry>
+  <entry>
+    <title>A dictionary, Hindustani and English, and English and Hindustani, the latter being entirely new</title>
+    <id>urn:x-internet-archive:bookserver:item:dictionaryhindus00shak</id>
+    <updated>2008-10-15T14:47:57Z</updated>
+    <link href="https://bookserver.archive.org/acquire/dictionaryhindus00shak.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/dictionaryhindus00shak.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/dictionaryhindus00shak/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/dictionaryhindus00shak/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1849</dcterms:issued>
+    <published>1849-01-01T00:00:00Z</published>
+    <author>
+      <name>Shakespear, John, 1775-1858</name>
+    </author>
+    <category term="Hindustani language" label="Hindustani language"/>
+    <category term="English language" label="English language"/>
+    <dcterms:publisher>London : P. Richardson</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary>Book contributor: University of California Libraries. 1791 downloads in the last month. </summary>
+  </entry>
+  <entry>
+    <title>The elements of coordinate geometry</title>
+    <id>urn:x-internet-archive:bookserver:item:elementsofcoordi00lone</id>
+    <updated>2010-05-13T19:44:24Z</updated>
+    <link href="https://bookserver.archive.org/acquire/elementsofcoordi00lone.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/elementsofcoordi00lone.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/elementsofcoordi00lone/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/elementsofcoordi00lone/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1895</dcterms:issued>
+    <published>1895-01-01T00:00:00Z</published>
+    <author>
+      <name>Loney, S. L. (Sidney Luxton), 1860-1939</name>
+    </author>
+    <category term="Coordinates" label="Coordinates"/>
+    <category term="Geometry, Analytic" label="Geometry, Analytic"/>
+    <dcterms:publisher>London, Macmillan and co.</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary>Book contributor: Boston College Libraries. 1752 downloads in the last month. </summary>
+  </entry>
+  <entry>
+    <title>Guide naturiste mondial = FKK Weltf&#252;hrer = World naturist guide</title>
+    <id>urn:x-internet-archive:bookserver:item:guidenaturistemo00inte</id>
+    <updated>2010-06-16T21:07:11Z</updated>
+    <link href="https://bookserver.archive.org/acquire/guidenaturistemo00inte.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/guidenaturistemo00inte.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/guidenaturistemo00inte/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/guidenaturistemo00inte/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1995</dcterms:issued>
+    <published>1995-01-01T00:00:00Z</published>
+    <author>
+      <name>International Naturist Federation</name>
+    </author>
+    <category term="Nudist camps" label="Nudist camps"/>
+    <dcterms:publisher>Berchem, Antwerp : Wolters Kluwer ; [Topanga, Calif. : Published in the United States by Elysium Growth Press]</dcterms:publisher>
+    <dcterms:language>de</dcterms:language>
+    <dcterms:language>fr</dcterms:language>
+    <dcterms:language>en</dcterms:language>
+    <summary>Book contributor: Internet Archive. 1747 downloads in the last month. </summary>
+  </entry>
+  <entry>
+    <title>A history of architecture on the comparative method</title>
+    <id>urn:x-internet-archive:bookserver:item:historyofarchite00fletuoft</id>
+    <updated>2007-03-02T11:13:14Z</updated>
+    <link href="https://bookserver.archive.org/acquire/historyofarchite00fletuoft.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/historyofarchite00fletuoft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/historyofarchite00fletuoft/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/historyofarchite00fletuoft/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1905</dcterms:issued>
+    <published>1905-01-01T00:00:00Z</published>
+    <author>
+      <name>Fletcher, Banister, 1833-1899</name>
+    </author>
+    <author>
+      <name>Fletcher, Banister, Sir, 1866-1953</name>
+    </author>
+    <category term="Architecture -- History" label="Architecture -- History"/>
+    <dcterms:publisher>London : Batsford</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">26</summary>
+  </entry>
+  <entry>
+    <title>A handbook of ornament</title>
+    <id>urn:x-internet-archive:bookserver:item:handbookoforname00meyeuoft</id>
+    <updated>2007-03-13T12:46:02Z</updated>
+    <link href="https://bookserver.archive.org/acquire/handbookoforname00meyeuoft.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/handbookoforname00meyeuoft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/handbookoforname00meyeuoft/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/handbookoforname00meyeuoft/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1920</dcterms:issued>
+    <published>1920-01-01T00:00:00Z</published>
+    <author>
+      <name>Meyer, Franz Sales, 1849-</name>
+    </author>
+    <category term="Decoration and ornament" label="Decoration and ornament"/>
+    <category term="Art objects" label="Art objects"/>
+    <dcterms:publisher>New York : Architectural Book Pub. Co.</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">Includes index 2 26</summary>
+  </entry>
+  <entry>
+    <title>The first book of plants</title>
+    <id>urn:x-internet-archive:bookserver:item:firstbookofplant00dickrich</id>
+    <updated>2007-07-03T21:05:16Z</updated>
+    <link href="https://bookserver.archive.org/acquire/firstbookofplant00dickrich.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/firstbookofplant00dickrich.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/firstbookofplant00dickrich/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/firstbookofplant00dickrich/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1953</dcterms:issued>
+    <published>1953-01-01T00:00:00Z</published>
+    <author>
+      <name>Dickinson, Alice</name>
+    </author>
+    <category term="Botany" label="Botany"/>
+    <category term="Botany" label="Botany"/>
+    <dcterms:publisher>New York : F. Watts</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary>Book contributor: Prelinger Library. 1496 downloads in the last month. </summary>
+  </entry>
+  <entry>
+    <title>East of the sun and west of the moon : old tales from the North</title>
+    <id>urn:x-internet-archive:bookserver:item:eastofsunwestofm00asbj</id>
+    <updated>2007-06-22T15:06:56Z</updated>
+    <link href="https://bookserver.archive.org/acquire/eastofsunwestofm00asbj.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/eastofsunwestofm00asbj.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/eastofsunwestofm00asbj/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/eastofsunwestofm00asbj/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1922</dcterms:issued>
+    <published>1922-01-01T00:00:00Z</published>
+    <author>
+      <name>Asbj&#248;rnsen, Peter Christen, 1812-1885</name>
+    </author>
+    <author>
+      <name>Moe, J&#248;rgen Engebretsen, 1813-1882</name>
+    </author>
+    <author>
+      <name>Dasent, George Webbe, Sir, 1817-1896</name>
+    </author>
+    <author>
+      <name>Nielsen, Kay Rasmus, 1886-1957</name>
+    </author>
+    <category term="Fairy tales" label="Fairy tales"/>
+    <category term="Folklore -- Norway" label="Folklore -- Norway"/>
+    <dcterms:publisher>New York : G.H. Doran</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">Fifteen stories from Norwegian folklore including East of the sun and west of the moon and One's own children are always prettiest</summary>
+  </entry>
+  <entry>
+    <title>Pitman's shorthand instructor : a complete exposition of Sir Isaac Pitman's system of shorthand</title>
+    <id>urn:x-internet-archive:bookserver:item:pitmansshorthand00pitm</id>
+    <updated>2015-09-09T19:47:00Z</updated>
+    <link href="https://bookserver.archive.org/acquire/pitmansshorthand00pitm.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/pitmansshorthand00pitm.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/pitmansshorthand00pitm/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/pitmansshorthand00pitm/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1920</dcterms:issued>
+    <published>1920-01-01T00:00:00Z</published>
+    <author>
+      <name>Pitman, Isaac, Sir, 1813-1897</name>
+    </author>
+    <category term="Shorthand" label="Shorthand"/>
+    <dcterms:publisher>London ; Toronto : Sir I. Pitman &amp; Sons</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">Includes index 24 32 NEW</summary>
+  </entry>
+  <entry>
+    <title>Creative Illustration</title>
+    <id>urn:x-internet-archive:bookserver:item:andrew-loomis-creative-illustration</id>
+    <updated>2011-12-08T05:48:51Z</updated>
+    <link href="https://bookserver.archive.org/acquire/andrew-loomis-creative-illustration.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/andrew-loomis-creative-illustration.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/andrew-loomis-creative-illustration/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/andrew-loomis-creative-illustration/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1947</dcterms:issued>
+    <published>1947-01-01T00:00:00Z</published>
+    <author>
+      <name>Loomis, Andrew</name>
+    </author>
+    <category term="art" label="art"/>
+    <category term="drawing" label="drawing"/>
+    <dcterms:publisher>New York, The Viking Press</dcterms:publisher>
+    <dcterms:language>English</dcterms:language>
+    <summary type="html">Sequel to "Figure Drawing for All It's Worth"</summary>
+  </entry>
+  <entry>
+    <title>A text-book of physiology for medical students and physicians</title>
+    <id>urn:x-internet-archive:bookserver:item:textbookofphysio00howe</id>
+    <updated>2009-06-26T15:37:11Z</updated>
+    <link href="https://bookserver.archive.org/acquire/textbookofphysio00howe.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/textbookofphysio00howe.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/textbookofphysio00howe/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/textbookofphysio00howe/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1921</dcterms:issued>
+    <published>1921-01-01T00:00:00Z</published>
+    <author>
+      <name>Howell, William Henry, 1860-1945</name>
+    </author>
+    <category term="Physiology, Comparative" label="Physiology, Comparative"/>
+    <dcterms:publisher>Philadelphia, London, W. B. Saunders</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">extracted picklist</summary>
+  </entry>
+  <entry>
+    <title>McElligot's pool</title>
+    <id>urn:x-internet-archive:bookserver:item:mcelligotspool00seus</id>
+    <updated>2010-03-08T21:23:03Z</updated>
+    <link href="https://bookserver.archive.org/acquire/mcelligotspool00seus.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/mcelligotspool00seus.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/mcelligotspool00seus/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/mcelligotspool00seus/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1947</dcterms:issued>
+    <published>1947-01-01T00:00:00Z</published>
+    <author>
+      <name>Seuss, Dr</name>
+    </author>
+    <category term="Fishing" label="Fishing"/>
+    <category term="Stories in rhyme" label="Stories in rhyme"/>
+    <category term="Fishing stories" label="Fishing stories"/>
+    <category term="Stories in rhyme" label="Stories in rhyme"/>
+    <dcterms:publisher>New York, Random House</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">A boy imagines the rare and wonderful fish he might catch in McElligot's pool Caldecott Honor Book, 1948</summary>
+  </entry>
+  <entry>
+    <title>The grammar of ornament</title>
+    <id>urn:x-internet-archive:bookserver:item:grammarornament00Jone</id>
+    <updated>2011-03-24T14:25:53Z</updated>
+    <link href="https://bookserver.archive.org/acquire/grammarornament00Jone.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/grammarornament00Jone.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/grammarornament00Jone/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/grammarornament00Jone/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1856</dcterms:issued>
+    <published>1856-01-01T00:00:00Z</published>
+    <author>
+      <name>Jones, Owen, 1809-1874</name>
+    </author>
+    <author>
+      <name>Bedford, Francis, 1816-1894</name>
+    </author>
+    <author>
+      <name>Waring, J. B. (John Burley), 1823-1875</name>
+    </author>
+    <author>
+      <name>Westwood, J. O. (John Obadiah), 1805-1893</name>
+    </author>
+    <author>
+      <name>Wyatt, M. Digby (Matthew Digby), Sir, 1820-1877</name>
+    </author>
+    <author>
+      <name>Sky Meadow Bindery, binder. DSI</name>
+    </author>
+    <category term="Decoration and ornament" label="Decoration and ornament"/>
+    <category term="Design" label="Design"/>
+    <category term="Decoration and ornament" label="Decoration and ornament"/>
+    <dcterms:publisher>London : Published by Day and Son</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">statement of responsibility: by Owen Jones; illustrated by examples from various styles of ornament. One hundred folio plates, drawn on stone by F. Bedford, and printed in colours by Day and Son Added t.p. in colors With contributions by J.B. Waring, J.O. Westwood, and M.D. Wyatt Order of the individual groups of pages: [2], 6, [2], 4, 6, 4, 4, 2, 4, 4, 4, 2, 8, 2, 3, 2, 2, 7, 5, 15, [1], 4, 14, 4 'Books referred to for illustrations, literary and pictorial': 1 p. preceding pl. LXXIV action: Laique II NK1175.J78 1856 CHMRB ; title page 1998/04/10 through 1998/09/15 William E. Baxter International Gallery Dempsey "Books referred to for illustrations, literary and pictorial": 1 p. preceding pl. LXXIV Laique II CHMRB has two copies CHMRB c. 1 (39088012147781; accession no. 208450) is imperfect: the added t.p., the t.p., and some other preliminary leaves have been repaired because of slight damage to their edges. Some of the plates have had their fore-edges closely cropped, affecting some plate numbers CHMRB c. 1 has a later red cloth binding with a printed beige paper spine label; with binder's ticket for the Sky Meadow Bindery (Feb. 1991) mounted on back paste-down endpaper CHMRB c. 2 (39088012147732) is the gift of David Martin, Jr CHMRB c. 2 has an old gilt-tooled black half-leather binding with burgundy embossed-cloth-covered boards, a gilt-stamped black leather panel with the cover title, and all edges gilt</summary>
+  </entry>
+  <entry>
+    <title>If I ran the zoo</title>
+    <id>urn:x-internet-archive:bookserver:item:ifiranzooclassic00drse</id>
+    <updated>2012-08-10T15:24:34Z</updated>
+    <link href="https://bookserver.archive.org/borrow/ifiranzooclassic00drse" type="application/atom+xml;type=entry;profile=opds-catalog" rel="http://opds-spec.org/acquisition/borrow">
+      <opds:availability status="available"/>
+      <opds:holds total="0"/>
+      <opds:copies total="1" available="1"/>
+      <opds:indirectAcquisition type="application/vnd.adobe.adept+xml">
+        <opds:indirectAcquisition type="application/epub+zip"/>
+      </opds:indirectAcquisition>
+    </link>
+    <link href="http://archive.org/download/ifiranzooclassic00drse/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/ifiranzooclassic00drse/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1950</dcterms:issued>
+    <published>1950-01-01T00:00:00Z</published>
+    <author>
+      <name>Seuss, Dr</name>
+    </author>
+    <category term="Zoos" label="Zoos"/>
+    <category term="Animals" label="Animals"/>
+    <category term="Imagination" label="Imagination"/>
+    <category term="Animals, Mythical" label="Animals, Mythical"/>
+    <category term="Stories in rhyme" label="Stories in rhyme"/>
+    <category term="Fantasy fiction" label="Fantasy fiction"/>
+    <category term="Stories in rhyme" label="Stories in rhyme"/>
+    <category term="Zoos" label="Zoos"/>
+    <category term="Imaginary creatures" label="Imaginary creatures"/>
+    <category term="Picture books for children" label="Picture books for children"/>
+    <category term="Zoos" label="Zoos"/>
+    <dcterms:publisher>New York, Random House</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">If Gerald McGrew ran the zoo, he'd let all the animals go and fill it with more unusual beasts--a ten-footed lion, an Elephant-Cat, a Mulligatawny, a Tufted Mazurka, and others Caldecott Honor Book, 1951</summary>
+  </entry>
+  <entry>
+    <title>A collection of upwards of thirty thousand names of German, Swiss, Dutch, French and other immigrants in Pennsylvania from 1727 to 1776 : with a statement of the names of ships, whence they sailed, and the date of their arrival at Philadelphia, chronologically arranged, together with the necessary historical and other notes, also, an appendix containing lists of more than one thousand German and French names in New York prior to 1712</title>
+    <id>urn:x-internet-archive:bookserver:item:collectionofupwa00ruppuoft</id>
+    <updated>2007-04-11T14:44:39Z</updated>
+    <link href="https://bookserver.archive.org/acquire/collectionofupwa00ruppuoft.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/collectionofupwa00ruppuoft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/collectionofupwa00ruppuoft/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/collectionofupwa00ruppuoft/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1876</dcterms:issued>
+    <published>1876-01-01T00:00:00Z</published>
+    <author>
+      <name>Rupp, I. Daniel (Israel Daniel), 1803-1878</name>
+    </author>
+    <category term="Palatines -- United States" label="Palatines -- United States"/>
+    <category term="Huguenots -- New York (State)" label="Huguenots -- New York (State)"/>
+    <category term="Salzburgers -- Georgia" label="Salzburgers -- Georgia"/>
+    <category term="Names, Personal -- Pennsylvania" label="Names, Personal -- Pennsylvania"/>
+    <category term="Pennsylvania -- Emigration and immigration" label="Pennsylvania -- Emigration and immigration"/>
+    <category term="Pennsylvania -- Genealogy Sources" label="Pennsylvania -- Genealogy Sources"/>
+    <category term="United States -- Genealogy Sources" label="United States -- Genealogy Sources"/>
+    <dcterms:publisher>Philadelphia : Ig. Kohler</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">26</summary>
+  </entry>
+  <entry>
+    <title>Cannery Row</title>
+    <id>urn:x-internet-archive:bookserver:item:in.ernet.dli.2015.207559</id>
+    <updated>2017-01-17T23:02:02Z</updated>
+    <link href="https://bookserver.archive.org/acquire/in.ernet.dli.2015.207559.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/in.ernet.dli.2015.207559.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/in.ernet.dli.2015.207559/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/in.ernet.dli.2015.207559/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1945</dcterms:issued>
+    <published>1945-01-01T00:00:00Z</published>
+    <author>
+      <name>Steinbeck John</name>
+    </author>
+    <category term="Rashtrapati" label="Rashtrapati"/>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">Book Source: Digital Library of India Item 2015.207559 dc.contributor.author: Steinbeck John dc.date.accessioned: 2015-07-09T15:18:12Z dc.date.available: 2015-07-09T15:18:12Z dc.date.digitalpublicationdate: 2004-04-10 dc.date.citation: 1945 dc.identifier: Librarian, Rashtrapati Bhavan dc.identifier.barcode: 6010010076629 dc.identifier.origpath: /data_copy/upload/0076/634 dc.identifier.copyno: 1 dc.identifier.uri: http://www.new.dli.ernet.in/handle/2015/207559 dc.description.scanningcentre: Rashtrapati Bhavan Library dc.description.main: 1 dc.description.tagged: 0 dc.description.totalpages: 148 dc.format.mimetype: application/pdf dc.language.iso: English dc.publisher.digitalrepublisher: Rashtrapati Bhavan dc.publisher: William Heinemann Ltd, London dc.rights: Out_of_copyright dc.source.library: Rashtrapati Bhavan Libaray dc.subject.classification: English And Old English dc.title: Cannery Row dc.rights.holder: Steinbeck John</summary>
+  </entry>
+  <entry>
+    <title>How they succeeded : life stories of successful men told by themselves</title>
+    <id>urn:x-internet-archive:bookserver:item:howtheysucceeded00mardrich</id>
+    <updated>2006-11-01T14:48:52Z</updated>
+    <link href="https://bookserver.archive.org/acquire/howtheysucceeded00mardrich.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/howtheysucceeded00mardrich.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/howtheysucceeded00mardrich/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/howtheysucceeded00mardrich/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1901</dcterms:issued>
+    <published>1901-01-01T00:00:00Z</published>
+    <author>
+      <name>Marden, Orison Swett, 1848-1924</name>
+    </author>
+    <category term="Howells, William Dean, 1837-1920" label="Howells, William Dean, 1837-1920"/>
+    <category term="Success" label="Success"/>
+    <category term="United States -- Biography" label="United States -- Biography"/>
+    <dcterms:publisher>Boston : Lothrop, Lee and Shepard</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary>Book contributor: University of California Libraries. 1269 downloads in the last month. </summary>
+  </entry>
+  <entry>
+    <title>Synonyms and antonyms; an alphabetical list of words in common use, grouped with others of similar and opposite meaning</title>
+    <id>urn:x-internet-archive:bookserver:item:synonymsantonyms00ordwiala</id>
+    <updated>2007-04-03T08:32:58Z</updated>
+    <link href="https://bookserver.archive.org/acquire/synonymsantonyms00ordwiala.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/synonymsantonyms00ordwiala.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/synonymsantonyms00ordwiala/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/synonymsantonyms00ordwiala/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1913</dcterms:issued>
+    <published>1913-01-01T00:00:00Z</published>
+    <author>
+      <name>Ordway, Edith B. (Edith Bertha), b. 1877</name>
+    </author>
+    <category term="English language -- Synonyms and antonyms" label="English language -- Synonyms and antonyms"/>
+    <dcterms:publisher>New York : Georg Sully and co.</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary>Book contributor: University of California Libraries. 1267 downloads in the last month. </summary>
+  </entry>
+  <entry>
+    <title>The first book of bees</title>
+    <id>urn:x-internet-archive:bookserver:item:firstbookofbees00tibbrich</id>
+    <updated>2007-07-03T20:58:20Z</updated>
+    <link href="https://bookserver.archive.org/acquire/firstbookofbees00tibbrich.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/firstbookofbees00tibbrich.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/firstbookofbees00tibbrich/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/firstbookofbees00tibbrich/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1952</dcterms:issued>
+    <published>1952-01-01T00:00:00Z</published>
+    <author>
+      <name>Tibbets, Albert B</name>
+    </author>
+    <category term="Bees" label="Bees"/>
+    <dcterms:publisher>New York, F. Watts</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary>Book contributor: Prelinger Library. 1222 downloads in the last month. </summary>
+  </entry>
+  <entry>
+    <title>Language of flowers</title>
+    <id>urn:x-internet-archive:bookserver:item:languageofflower00gree</id>
+    <updated>2007-07-02T13:26:30Z</updated>
+    <link href="https://bookserver.archive.org/acquire/languageofflower00gree.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/languageofflower00gree.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/languageofflower00gree/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/languageofflower00gree/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <author>
+      <name>Greenaway, Kate, 1846-1901</name>
+    </author>
+    <category term="Flower language" label="Flower language"/>
+    <category term="Flowers" label="Flowers"/>
+    <dcterms:publisher>London ; New York : F. Warne</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary>Book contributor: New York Public Library. 1219 downloads in the last month. </summary>
+  </entry>
+  <entry>
+    <title>Newton's Principia : the mathematical principles of natural philosophy</title>
+    <id>urn:x-internet-archive:bookserver:item:newtonspmathema00newtrich</id>
+    <updated>2006-03-23T07:12:36Z</updated>
+    <link href="https://bookserver.archive.org/acquire/newtonspmathema00newtrich.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/newtonspmathema00newtrich.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/newtonspmathema00newtrich/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/newtonspmathema00newtrich/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1846</dcterms:issued>
+    <published>1846-01-01T00:00:00Z</published>
+    <author>
+      <name>Newton, Isaac, Sir, 1642-1727</name>
+    </author>
+    <author>
+      <name>Chittenden, N. W. Life of Sir Isaac Newton</name>
+    </author>
+    <author>
+      <name>Adee, Daniel, ca. 1819-1892. (1846) bkp CU-BANC</name>
+    </author>
+    <author>
+      <name>Motte, Andrew, d. 1730</name>
+    </author>
+    <author>
+      <name>Hill, Theodore Preston. Early American mathematics books. CU-BANC</name>
+    </author>
+    <category term="Newton, Isaac, Sir, 1642-1727" label="Newton, Isaac, Sir, 1642-1727"/>
+    <category term="Mechanics -- Early works to 1800" label="Mechanics -- Early works to 1800"/>
+    <category term="Celestial mechanics -- Early works to 1800" label="Celestial mechanics -- Early works to 1800"/>
+    <dcterms:publisher>New-York : Published by Daniel Adee</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary>Book contributor: University of California Libraries. 1216 downloads in the last month. </summary>
+  </entry>
+  <entry>
+    <title>The secret language of relationships : your complete personology guide to any relationship with anyone</title>
+    <id>urn:x-internet-archive:bookserver:item:secretlanguageo00gold</id>
+    <updated>2010-11-16T20:35:32Z</updated>
+    <link href="https://bookserver.archive.org/borrow/secretlanguageo00gold" type="application/atom+xml;type=entry;profile=opds-catalog" rel="http://opds-spec.org/acquisition/borrow">
+      <opds:availability status="unavailable"/>
+      <opds:unavailable date="2024-05-11"/>
+      <opds:holds total="95"/>
+      <opds:copies total="1" available="0"/>
+      <opds:indirectAcquisition type="application/vnd.adobe.adept+xml">
+        <opds:indirectAcquisition type="application/epub+zip"/>
+      </opds:indirectAcquisition>
+    </link>
+    <link href="http://archive.org/download/secretlanguageo00gold/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/secretlanguageo00gold/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1997</dcterms:issued>
+    <published>1997-01-01T00:00:00Z</published>
+    <author>
+      <name>Goldschneider, Gary</name>
+    </author>
+    <category term="Love" label="Love"/>
+    <category term="Marriage" label="Marriage"/>
+    <category term="Astrology and psychology" label="Astrology and psychology"/>
+    <category term="Personality" label="Personality"/>
+    <dcterms:publisher>New York : Penguin Studio</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">"A Joost Elffers production." Includes index "... presents relationship profiles between any two individuals based on the period personalities, for ... 1,176 total possible combination summaries."</summary>
+  </entry>
+  <entry>
+    <title>The Kalevala : the epic poem of Finland</title>
+    <id>urn:x-internet-archive:bookserver:item:kalevalaepicpoem01crawuoft</id>
+    <updated>2008-03-14T14:11:56Z</updated>
+    <link href="https://bookserver.archive.org/acquire/kalevalaepicpoem01crawuoft.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/kalevalaepicpoem01crawuoft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/kalevalaepicpoem01crawuoft/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/kalevalaepicpoem01crawuoft/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1904</dcterms:issued>
+    <published>1904-01-01T00:00:00Z</published>
+    <author>
+      <name>Crawford, John Martin, 1845-1916</name>
+    </author>
+    <dcterms:publisher>Cincinnati : The Robert Clarke Company</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">31</summary>
+  </entry>
+  <entry>
+    <title>A text-book of entomology, including the anatomy, physiology, embryology and metamorphoses of insects, for use in agricultural and technical schools and colleges as well as by the working entomologist</title>
+    <id>urn:x-internet-archive:bookserver:item:textbookofentomo00pack</id>
+    <updated>2007-10-12T13:42:02Z</updated>
+    <link href="https://bookserver.archive.org/acquire/textbookofentomo00pack.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/textbookofentomo00pack.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/textbookofentomo00pack/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/textbookofentomo00pack/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1898</dcterms:issued>
+    <published>1898-01-01T00:00:00Z</published>
+    <author>
+      <name>Packard, A. S. (Alpheus Spring), 1839-1905</name>
+    </author>
+    <category term="Insects" label="Insects"/>
+    <dcterms:publisher>New York, The Macmillan company; London, Macmillan &amp; co., ltd.</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">Bibliographies interspersed</summary>
+  </entry>
+  <entry>
+    <title>Dictionary of French and English, English and French</title>
+    <id>urn:x-internet-archive:bookserver:item:dictionaryoffren00belluoft</id>
+    <updated>2007-07-04T15:51:19Z</updated>
+    <link href="https://bookserver.archive.org/acquire/dictionaryoffren00belluoft.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/dictionaryoffren00belluoft.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/dictionaryoffren00belluoft/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/dictionaryoffren00belluoft/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1919</dcterms:issued>
+    <published>1919-01-01T00:00:00Z</published>
+    <author>
+      <name>Bellows, John, 1831-1902</name>
+    </author>
+    <author>
+      <name>Bellows, Wiilliam</name>
+    </author>
+    <category term="French language -- Dictionaries English" label="French language -- Dictionaries English"/>
+    <category term="English language -- Dictionaries French" label="English language -- Dictionaries French"/>
+    <dcterms:publisher>London Longmans, Green</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">26</summary>
+  </entry>
+  <entry>
+    <title>The AWK programming language</title>
+    <id>urn:x-internet-archive:bookserver:item:pdfy-MgN0H1joIoDVoIC7</id>
+    <updated>2014-08-24T05:00:09Z</updated>
+    <link href="https://bookserver.archive.org/acquire/pdfy-MgN0H1joIoDVoIC7.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/pdfy-MgN0H1joIoDVoIC7.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/pdfy-MgN0H1joIoDVoIC7/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/pdfy-MgN0H1joIoDVoIC7/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1988</dcterms:issued>
+    <published>1988-01-01T00:00:00Z</published>
+    <author>
+      <name>Aho, Alfred V</name>
+    </author>
+    <author>
+      <name>Kernighan, Brian W</name>
+    </author>
+    <author>
+      <name>Weinberger, Peter J</name>
+    </author>
+    <category term="mirror" label="mirror"/>
+    <category term="pdf.yt" label="pdf.yt"/>
+    <category term="AWK (Computer program language)" label="AWK (Computer program language)"/>
+    <dcterms:publisher>Reading, Mass. : Addison-Wesley Pub. Co.</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">This public document was automatically mirrored from PDFy . Original filename: The_AWK_Programming_Language.pdf URL: https://pdf.yt/d/MgN0H1joIoDVoIC7 Upload date: August 24, 2014 04:03:42 Includes index</summary>
+  </entry>
+  <entry>
+    <title>The sixth and seventh books of Moses, or, Moses' magical spirit-art : known as the wonderful arts of the old wise Hebrews, taken from the Mosaic books of the Cabala and the Talmud, for the good of mankind</title>
+    <id>urn:x-internet-archive:bookserver:item:sixthandseventh00schegoog</id>
+    <updated>2008-04-13T20:35:09Z</updated>
+    <link href="https://bookserver.archive.org/acquire/sixthandseventh00schegoog.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/sixthandseventh00schegoog.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/sixthandseventh00schegoog/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/sixthandseventh00schegoog/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1880</dcterms:issued>
+    <published>1880-01-01T00:00:00Z</published>
+    <author>
+      <name>Scheible, J. (Johann)</name>
+    </author>
+    <author>
+      <name>Ennemoser, Joseph, 1787-1854. Geschichte der Magie. English</name>
+    </author>
+    <author>
+      <name>Harry Houdini Collection (Library of Congress) DLC</name>
+    </author>
+    <category term="Magic, Jewish" label="Magic, Jewish"/>
+    <category term="Incantations" label="Incantations"/>
+    <category term="Medicine, Magic, mystic, and spagiric" label="Medicine, Magic, mystic, and spagiric"/>
+    <dcterms:publisher>New York : [s.n.]</dcterms:publisher>
+    <dcterms:language>en</dcterms:language>
+    <summary type="html">Book digitized by Google from the library of the University of Michigan and uploaded to the Internet Archive by user tpb. The German original was published at Stuttgart in 1849 under title, Das sechste und siebente Buch Mosis, as Theil 6 in Bibliothek der Zauber-, Geheimniss- und Offenbarungs-Bucher ..., edited by J. Scheible Part I, The magic of the Israelites, p. 28-64, 1st group of paging, is translated from J. Ennemoser's Geschichte der Magie. Cf. pref., The sixth and seventh book of Moses, 4th enl. ed., 1880 LC copy has ink stamp: P.C. Kullman &amp; Co., Masonic books, New York The German original was published at Stuttgart in 1849 under title, Das sechste und siebente Buch Mosis, as Theil 6 in Bibliothek der Zauber-, Geheimniss- und Offenbarungs-Bu&#776;cher ..., edited by J. Scheible</summary>
+  </entry>
+  <entry>
+    <title>Grammar-land; Or, Grammar in Fun for the Children of Schoolroom-shire ...</title>
+    <id>urn:x-internet-archive:bookserver:item:grammarlandorgr00nesbgoog</id>
+    <updated>2008-05-04T05:34:51Z</updated>
+    <link href="https://bookserver.archive.org/acquire/grammarlandorgr00nesbgoog.pdf" type="application/pdf" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="https://bookserver.archive.org/acquire/grammarlandorgr00nesbgoog.epub" type="application/epub+zip" rel="http://opds-spec.org/acquisition/open-access"/>
+    <link href="http://archive.org/download/grammarlandorgr00nesbgoog/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="http://archive.org/download/grammarlandorgr00nesbgoog/page/cover_medium.jpg" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <dcterms:issued>1878</dcterms:issued>
+    <published>1878-01-01T00:00:00Z</published>
+    <author>
+      <name>M. L. Nesbitt</name>
+    </author>
+    <dcterms:publisher>H. Holt &amp; Co.</dcterms:publisher>
+    <dcterms:language>English</dcterms:language>
+    <summary type="html">Book digitized by Google from the library of the New York Public Library and uploaded to the Internet Archive by user tpb.</summary>
+  </entry>
+</feed>
