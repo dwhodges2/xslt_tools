@@ -41,12 +41,13 @@
             
          <axsl:variable name="heads">
              <xsl:text>FILENAME</xsl:text>
-             <xsl:value-of select="$delim1"/>
+             <axsl:value-of select="$delim1"/>
             <xsl:for-each select="xpaths/xpath">
-                <xsl:text>"</xsl:text>
-                <xsl:value-of select="normalize-space(.)"/>
-                <xsl:text>"</xsl:text>
-                <xsl:value-of select="$delim1"/>
+                <xsl:choose>
+                    <xsl:when test="@title"><xsl:value-of select="@title"/></xsl:when>
+                    <xsl:otherwise><xsl:value-of select="normalize-space(.)"/></xsl:otherwise>
+                </xsl:choose>
+                <axsl:value-of select="$delim1"/>
             </xsl:for-each> 
          </axsl:variable>   
             

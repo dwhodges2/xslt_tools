@@ -3,15 +3,15 @@
 <!-- Example input for report_metagenerator.xsl, to create report stylesheet for bookserver OPDS ebook metadata from Internet Archive (https://bookserver.archive.org/downloads.xml). -->
 
 <data>
-    <!-- Path to folder of 1 or more XML files to use as source. -->
-    <filePath>/Users/dwh2128/git/xslt-generator/sample-xml/</filePath>
-    <!-- Xpath to items to be reported as row data - usually the elements one level below the root. --> 
+    <!-- filePath: Path to folder of 1 or more XML files to use as source. -->
+    <filePath>sample-xml/</filePath>
+    <!-- itemContext: Xpath to items to be reported as row data - usually the elements one level below the root. -->
     <itemContext>feed/entry</itemContext>
-    <!-- Namespace of source document, if any. -->
+    <!-- xpathDefaultNamespace: Namespace of source document, if any. -->
     <xpathDefaultNamespace>http://www.w3.org/2005/Atom</xpathDefaultNamespace>
-    <!-- Delimiter to output in tabular data. -->
+    <!-- delim1: Delimiter to output in tabular data. -->
     <delim1>|</delim1>
-    
+
     <!-- List of xpath expressions to evaluate and put result in column for each item. -->
     <xpaths>
         <xpath>title</xpath>
@@ -19,11 +19,11 @@
         <xpath>published</xpath>
         <xpath>id</xpath>
         <xpath>updated</xpath>
-        <xpath>link[@type="application/pdf"]/@href</xpath>
-        <xpath>link[@type="application/epub+zip"]/@href</xpath>
-        <xpath>count(category)</xpath>
-        <xpath>*:language</xpath>
+        <xpath>link[@type='application/pdf']/@href</xpath>
+        <xpath>link[@type='application/epub+zip']/@href</xpath>
+        <xpath title="Number of subjects">count(category)</xpath>
+        <xpath title="Language">*:language</xpath>
     </xpaths>
-    
+
 </data>
 

@@ -6,13 +6,14 @@
                 version="2.0"
                 xpath-default-namespace="http://www.w3.org/2005/Atom">
    <xsl:output method="text" indent="no" encoding="UTF-8"/>
-   <xsl:param name="file_path">/Users/dwh2128/git/xslt-generator/sample-xml/</xsl:param>
+   <xsl:param name="file_path">sample-xml/</xsl:param>
    <xsl:variable name="lf">
       <xsl:text>
 </xsl:text>
    </xsl:variable>
    <xsl:variable name="delim1">|</xsl:variable>
-   <xsl:variable name="heads">FILENAME|"title"|"author/name"|"published"|"id"|"updated"|"link[@type="application/pdf"]/@href"|"link[@type="application/epub+zip"]/@href"|"count(category)"|"*:language"|</xsl:variable>
+   <xsl:variable name="heads">FILENAME<xsl:value-of select="$delim1"/>title<xsl:value-of select="$delim1"/>author/name<xsl:value-of select="$delim1"/>published<xsl:value-of select="$delim1"/>id<xsl:value-of select="$delim1"/>updated<xsl:value-of select="$delim1"/>link[@type='application/pdf']/@href<xsl:value-of select="$delim1"/>link[@type='application/epub+zip']/@href<xsl:value-of select="$delim1"/>Number of subjects<xsl:value-of select="$delim1"/>Language<xsl:value-of select="$delim1"/>
+   </xsl:variable>
 
    <xsl:template match="/">
       <xsl:value-of select="$heads"/>
@@ -42,9 +43,9 @@
       <xsl:value-of select="$delim1"/>
       <xsl:value-of select="updated"/>
       <xsl:value-of select="$delim1"/>
-      <xsl:value-of select="link[@type=&#34;application/pdf&#34;]/@href"/>
+      <xsl:value-of select="link[@type='application/pdf']/@href"/>
       <xsl:value-of select="$delim1"/>
-      <xsl:value-of select="link[@type=&#34;application/epub+zip&#34;]/@href"/>
+      <xsl:value-of select="link[@type='application/epub+zip']/@href"/>
       <xsl:value-of select="$delim1"/>
       <xsl:value-of select="count(category)"/>
       <xsl:value-of select="$delim1"/>
