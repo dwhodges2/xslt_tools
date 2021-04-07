@@ -4,7 +4,7 @@ Meta-stylesheet (XSLT 2) to generate another stylesheet that reports information
 
 ## Use case
 
-You have a set of data in XML that you want to report out to Excel, Google Sheets, etc. in tabular form. For example, a metadata records for a catalog. There could be one XML file with many records, or many XML files with one or more records each. The end result should be a table with one row per record and the desired information from each record, as obtained by XPATH expressions, in columns. Use `report_metagenerator.xsl` to generate a reusable stylesheet modeled on your data, with which you can create tabular output across large sets of of XML data.
+You have a set of data in XML that you want to report out to Excel, Google Sheets, etc. in tabular form. For example, a collection of metadata records from a catalog, metadata from a repository OAI-PMH feed, etc. There could be one XML file with many records, or many XML files with one or more records each. The end result should be a table with one row per record and the desired information from each record, as obtained by XPATH expressions, in columns. Use `report_metagenerator.xsl` to generate a reusable stylesheet modeled on your data, with which you can create tabular output across large sets of of XML data.
 
 ## How it works
 
