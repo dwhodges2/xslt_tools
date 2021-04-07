@@ -26,7 +26,6 @@
         <axsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
             xmlns:xs="http://www.w3.org/2001/XMLSchema" 
             exclude-result-prefixes="xs" version="2.0"
-            xmlns="http://ns.editeur.org/onix/3.0/short"
             xpath-default-namespace="{xpathDefaultNamespace}">
 
  
