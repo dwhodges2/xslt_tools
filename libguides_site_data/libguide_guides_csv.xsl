@@ -9,12 +9,12 @@
         <xsl:text>&#xa;</xsl:text>
     </xsl:variable>
 
-    <xsl:variable name="heads">id|name|type|creator|status|created|updated|published|pg_count</xsl:variable>
+    <xsl:variable name="heads">id|name|url|type|creator|status|created|updated|published|redirect|pg_count</xsl:variable>
 
     <xsl:template match="/">
         <xsl:value-of select="$heads"/>
         <xsl:value-of select="$lf"/>
-        
+
         <xsl:apply-templates select="libguides/guides/guide"/>
     </xsl:template>
 
@@ -22,6 +22,8 @@
         <xsl:value-of select="id"/>
         <xsl:value-of select="$delim1"/>
         <xsl:value-of select="name"/>
+        <xsl:value-of select="$delim1"/>
+        <xsl:value-of select="url"/>
         <xsl:value-of select="$delim1"/>
         <xsl:value-of select="type"/>
         <xsl:value-of select="$delim1"/>
@@ -35,9 +37,11 @@
         <xsl:value-of select="$delim1"/>
         <xsl:value-of select="published"/>
         <xsl:value-of select="$delim1"/>
+        <xsl:value-of select="redirect"/>
+        <xsl:value-of select="$delim1"/>
         <xsl:value-of select="count(pages/page)"/>
         <xsl:value-of select="$lf"/>
-        
+
 
     </xsl:template>
 
